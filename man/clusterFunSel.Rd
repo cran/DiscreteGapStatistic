@@ -2,7 +2,7 @@
 % Please edit documentation in R/AuxFuns.R
 \name{clusterFunSel}
 \alias{clusterFunSel}
-\title{A function that generates formatted algorithmic functions that can be plugged to enable run a wide variety of clustering algorithm for `clusGapDiscr` function.}
+\title{Clustering generating function}
 \usage{
 clusterFunSel(clustFun)
 }
@@ -19,5 +19,6 @@ An object of class kmodes as found in `klaR` packages.
 An additional component specifies the categorical distance function found in `distFun`.
 }
 \description{
-A function that generates formatted algorithmic functions that can be plugged to enable run a wide variety of clustering algorithm for `clusGapDiscr` function.
+A function that generates formatted algorithmic functions that can be plugged
+to enable run a wide variety of clustering algorithm for `clusGapDiscr` function.
 }

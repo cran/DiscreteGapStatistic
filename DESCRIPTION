@@ -1,7 +1,7 @@
 Package: DiscreteGapStatistic
 Type: Package
 Title: An Extension of the Gap Statistic for Ordinal/Categorical Data
-Version: 1.0.0
+Version: 1.1.2
 Authors@R: c(
    person("Jeffrey", "Miecznikowski", email="jcm38@buffalo.edu", role = c("aut")),
    person("Eduardo", "Cortes", email="ecortesg@buffalo.edu", 
@@ -20,9 +20,9 @@ Suggests: kableExtra, knitr, rmarkdown, testthat
 Config/testthat/edition: 3
 Depends: R (>= 4.2.0)
 NeedsCompilation: no
-Packaged: 2024-12-09 05:34:53 UTC; ED33454
+Packaged: 2025-03-06 03:14:05 UTC; ED33454
 Author: Jeffrey Miecznikowski [aut],
   Eduardo Cortes [aut, cre] (<https://orcid.org/0000-0002-0966-6488>)
 Maintainer: Eduardo Cortes <ecortesg@buffalo.edu>
 Repository: CRAN
-Date/Publication: 2024-12-09 05:50:02 UTC
+Date/Publication: 2025-03-06 03:30:02 UTC
